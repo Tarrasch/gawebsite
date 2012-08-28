@@ -1,0 +1,13 @@
+<entry>
+    <title>$title$</title>
+    <link rel="alternate" href="http://www.cc.gatech.edu/~arka3$url$" />
+    <id>http://www.cc.gatech.edu/~arka3$url$</id>
+    <published>$published$</published>
+    <updated>$updated$</updated>
+    <author><name>$author$</name></author>
+    <content type="xhtml" xml:base="http://www.cc.gatech.edu/~arka3/posts.html">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            $feedcontent$
+        </div>
+    </content>
+</entry>

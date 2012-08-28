@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Arash's Blog$extratitle$</title>
+    <link href="http://www.cc.gatech.edu/~arka3$url$" rel="self" />
+    <link href="http://www.cc.gatech.edu/~arka3" />
+    <id>http://www.cc.gatech.edu/~arka3$url$</id>
+    <author>
+        <name>Arash Rouhani</name>
+    </author>
+    <updated>$lastupdated$</updated>
+    $body$
+</feed>
