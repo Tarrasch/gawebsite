@@ -1,17 +1,9 @@
-html {
-    font-family: 'Helvetica', sans-serif;
-    font-size: 14px;
-    color: black;
-}
-
 body {
     max-width: 700px;
     margin: 10px auto 10px auto;
-}
-
-div#header {
-    font-size: 16px;
-    font-weight: bold;
+    background: #EFEFEF;
+    background-image:url("../images/main-bg.jpg");
+    background-repeat;repeat-x;
 }
 
 div#navigation {
@@ -23,7 +15,7 @@ div#navigation a {
 }
 
 div#footer {
-    text-align: center;
+    text-align: right;
     font-style: italic;
     font-size: 11px;
     margin-top: 30px;
@@ -38,12 +30,6 @@ h1 {
 
 li {
     list-style-type: square;
-}
-
-a {
-    color: rgb(30, 30, 130);
-    font-weight: bold;
-    text-decoration: none;
 }
 
 div.figure {
